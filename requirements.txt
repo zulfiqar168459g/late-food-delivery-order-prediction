@@ -1,0 +1,83 @@
+# ============================================================
+# Common AI / ML Python requirements
+# Good starter requirements.txt for data science, ML, and AI projects
+# Install with:
+#   pip install -r requirements_ai_ml.txt
+# ============================================================
+
+# Core data handling
+numpy
+pandas
+scipy
+
+# Machine learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Jupyter / notebooks
+jupyter
+notebook
+ipykernel
+
+# Statistics / analysis
+statsmodels
+
+# Deep learning
+torch
+torchvision
+torchaudio
+tensorflow
+
+# NLP / LLMs
+transformers
+datasets
+sentence-transformers
+accelerate
+tokenizers
+nltk
+spacy
+
+# OpenAI / API usage
+openai
+python-dotenv
+requests
+httpx
+
+# LangChain / RAG
+langchain
+langchain-community
+langchain-openai
+chromadb
+faiss-cpu
+
+# Computer vision
+opencv-python
+pillow
+
+# Model saving / experiment tracking
+joblib
+mlflow
+
+# Web apps / demos
+streamlit
+gradio
+fastapi
+uvicorn
+
+# Data files / Excel / SQL
+openpyxl
+xlsxwriter
+sqlalchemy
+
+# Utilities
+tqdm
+pyyaml
+rich
+pydantic
